@@ -1,0 +1,9 @@
+
+
+.styled-link {
+    padding: 10px 20px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black; /* Assuming black text color */
+}
