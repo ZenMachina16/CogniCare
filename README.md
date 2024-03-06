@@ -6,7 +6,7 @@ PS-3 Syrus Hackathon - Empowering Alzheimer's Support through Innovation
 
 <p id="description">CogniCare helps explore many ways to fight against Alzheimer's disease and all other dementia. Together, we stand strong. Get involved with CogniCare Now!</p>
 
-<h2>🧐 Features</h2>
+<h2>🧐 Features</h2> 
 
 Here are some of the project's best features:
 
